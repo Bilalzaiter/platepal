@@ -1,0 +1,258 @@
+2023-08-28T15:10:55.962Z [INFO]: Server running on http://localhost:5000
+2023-08-28T15:10:56.048Z [INFO]: Database connected !!!
+2023-08-28 18:11:58 [INFO]: Server running on http://localhost:5000
+2023-08-28 18:11:58 [INFO]: Database connected !!!
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+2023-08-28 18:17:31 | INFO | Server running on http://localhost:5000
+2023-08-28 18:17:31 | INFO | Database connected !!!
+2023-08-28 18:26:18 | INFO | Server running on http://localhost:5000
+2023-08-28 18:26:18 | INFO | Database connected !!!
+2023-08-28 18:27:59 | INFO | Server running on http://localhost:5000
+2023-08-28 18:27:59 | INFO | Database connected !!!
+2023-08-28 18:28:29 | INFO | Server running on http://localhost:5000
+2023-08-28 18:28:29 | INFO | Database connected !!!
+2023-08-28 18:28:41 | INFO | Server running on http://localhost:5000
+2023-08-28 18:28:41 | INFO | Database connected !!!
+2023-08-28 18:31:38 | INFO | Server running on http://localhost:5000
+2023-08-28 18:31:38 | INFO | Database connected !!!
+2023-08-28 18:32:33 | INFO | Server running on http://localhost:5000
+2023-08-28 18:32:33 | INFO | Database connected !!!
+2023-08-28 18:33:10 | INFO | Server running on http://localhost:5000
+2023-08-28 18:33:10 | INFO | Database connected !!!
+2023-08-28 18:33:28 | INFO | Server running on http://localhost:5000
+2023-08-28 18:33:29 | INFO | Database connected !!!
+2023-08-28 18:36:49 | INFO | Server running on http://localhost:5000
+2023-08-28 18:36:49 | INFO | Database connected !!!
+2023-08-28 18:37:05 | INFO | Server running on http://localhost:5000
+2023-08-28 18:37:05 | INFO | Database connected !!!
+2023-08-28 18:37:17 | INFO | Server running on http://localhost:5000
+2023-08-28 18:37:17 | INFO | Database connected !!!
+2023-08-28 18:37:49 | INFO | Server running on http://localhost:5000
+2023-08-28 18:37:49 | INFO | Database connected !!!
+2023-08-28 18:37:58 | INFO | Server running on http://localhost:5000
+2023-08-28 18:37:58 | INFO | Database connected !!!
+2023-08-28 18:38:40 | INFO | Server running on http://localhost:5000
+2023-08-28 18:38:40 | INFO | Database connected !!!
+2023-08-28 18:40:03 | INFO | Server running on http://localhost:5000
+2023-08-28 18:40:03 | INFO | Database connected !!!
+2023-08-28 18:40:25 | INFO | Server running on http://localhost:5000
+2023-08-28 18:40:25 | INFO | Database connected !!!
+2023-08-29 12:32:36 | INFO | Server running on http://localhost:5000
+2023-08-29 12:32:36 | INFO | Database connected !!!
+2023-08-29 12:32:46 | INFO | Server running on http://localhost:5000
+2023-08-29 12:32:46 | INFO | Database connected !!!
+2023-08-30 18:54:34 | INFO | Server running on http://localhost:5000
+2023-08-30 18:54:35 | INFO | Database connected !!!
+2023-08-30 19:06:59 | INFO | Server running on http://localhost:5000
+2023-08-30 19:06:59 | INFO | Database connected !!!
+2023-08-30 19:07:07 | INFO | Server running on http://localhost:5000
+2023-08-30 19:07:07 | INFO | Database connected !!!
+2023-08-30 19:07:38 | INFO | Server running on http://localhost:5000
+2023-08-30 19:07:39 | INFO | Database connected !!!
+2023-08-30 19:08:28 | INFO | Server running on http://localhost:5000
+2023-08-30 19:08:28 | INFO | Database connected !!!
+2023-08-30 19:09:10 | INFO | Server running on http://localhost:5000
+2023-08-30 19:09:10 | INFO | Database connected !!!
+2023-08-30 19:09:46 | INFO | Server running on http://localhost:5000
+2023-08-30 19:09:46 | INFO | Database connected !!!
+2023-08-30 19:11:59 | INFO | Server running on http://localhost:5000
+2023-08-30 19:11:59 | INFO | Database connected !!!
+2023-08-30 19:12:09 | INFO | Server running on http://localhost:5000
+2023-08-30 19:12:09 | INFO | Database connected !!!
+2023-08-30 19:12:14 | INFO | Server running on http://localhost:5000
+2023-08-30 19:12:15 | INFO | Database connected !!!
+2023-08-30 19:14:46 | INFO | Server running on http://localhost:5000
+2023-08-30 19:14:47 | INFO | Database connected !!!
+2023-08-30 19:18:46 | INFO | Server running on http://localhost:5000
+2023-08-30 19:18:46 | INFO | Database connected !!!
+2023-08-30 19:18:51 | ERROR | ValidationError: User validation failed: location.coordinates: Path `location.coordinates` is required.
+    at Document.invalidate (C:\Users\User\Documents\platepal\server\node_modules\mongoose\lib\document.js:3162:32)
+    at C:\Users\User\Documents\platepal\server\node_modules\mongoose\lib\document.js:2955:17
+    at C:\Users\User\Documents\platepal\server\node_modules\mongoose\lib\schematype.js:1368:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+2023-08-30 19:24:59 | INFO | Server running on http://localhost:5000
+2023-08-30 19:24:59 | INFO | Database connected !!!
+2023-08-30 19:25:05 | INFO | Server running on http://localhost:5000
+2023-08-30 19:25:05 | INFO | Database connected !!!
+2023-08-30 19:25:06 | ERROR | ValidationError: User validation failed: location.coordinates: Path `location.coordinates` is required.
+    at Document.invalidate (C:\Users\User\Documents\platepal\server\node_modules\mongoose\lib\document.js:3162:32)
+    at C:\Users\User\Documents\platepal\server\node_modules\mongoose\lib\document.js:2955:17
+    at C:\Users\User\Documents\platepal\server\node_modules\mongoose\lib\schematype.js:1368:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+2023-08-30 19:25:45 | INFO | Server running on http://localhost:5000
+2023-08-30 19:25:45 | INFO | Database connected !!!
+2023-08-30 19:25:49 | ERROR | MongoServerError: Can't extract geo keys: { _id: ObjectId('64ef6d8d3c1e60bc814b81b2'), firstName: "BILAL", lastName: "ZEAITER", email: "bizzzzzzzo@gmail.com", password: "$2a$10$h/otUqNOTYzWsPnev/oCJeHRx8KzC91oUZSm6mmP6BsINhe5b4GMy", isEmailVerified: false, isActive: false, role: [ "admin" ], ordersDelivered: 0, ranking: 0, location: { type: "Point" }, profilePhoto: { url: "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png", publicId: null }, dishes: [], createdAt: new Date(1693412749194), updatedAt: new Date(1693412749194), __v: 0 }  Point must be an array or object
+    at C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\operations\insert.js:50:33
+    at C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\cmap\connection_pool.js:331:21
+    at C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\sdam\server.js:209:17
+    at handleOperationResult (C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\sdam\server.js:337:20)
+    at Connection.onMessage (C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\cmap\connection.js:206:9)
+    at MessageStream.<anonymous> (C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\cmap\connection.js:61:60)
+    at MessageStream.emit (node:events:513:28)
+    at processIncomingData (C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\cmap\message_stream.js:124:16)
+    at MessageStream._write (C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\cmap\message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+2023-08-30 19:28:43 | INFO | Server running on http://localhost:5000
+2023-08-30 19:28:43 | INFO | Database connected !!!
+2023-08-30 19:28:44 | ERROR | MongoServerError: Can't extract geo keys: { _id: ObjectId('64ef6e3bae7919480fb97c1b'), firstName: "BILAL", lastName: "ZEAITER", email: "bizzzzzzzo@gmail.com", password: "$2a$10$.Og79LvDEeQ7q6o9dJiAX.KU0CQmZPuyqB8z4ylJwsitnU1kKFyn.", isEmailVerified: false, isActive: false, role: [ "admin" ], ordersDelivered: 0, ranking: 0, location: { type: "Point" }, profilePhoto: { url: "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png", publicId: null }, dishes: [], createdAt: new Date(1693412923846), updatedAt: new Date(1693412923846), __v: 0 }  Point must be an array or object
+    at C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\operations\insert.js:50:33
+    at C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\cmap\connection_pool.js:331:21
+    at C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\sdam\server.js:209:17
+    at handleOperationResult (C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\sdam\server.js:337:20)
+    at Connection.onMessage (C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\cmap\connection.js:206:9)
+    at MessageStream.<anonymous> (C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\cmap\connection.js:61:60)
+    at MessageStream.emit (node:events:513:28)
+    at processIncomingData (C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\cmap\message_stream.js:124:16)
+    at MessageStream._write (C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\cmap\message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+2023-08-30 19:29:11 | INFO | Server running on http://localhost:5000
+2023-08-30 19:29:11 | INFO | Database connected !!!
+2023-08-30 19:29:32 | INFO | Server running on http://localhost:5000
+2023-08-30 19:29:32 | INFO | Database connected !!!
+2023-08-30 19:29:38 | INFO | Server running on http://localhost:5000
+2023-08-30 19:29:38 | INFO | Database connected !!!
+2023-08-30 19:30:08 | INFO | Server running on http://localhost:5000
+2023-08-30 19:30:08 | INFO | Database connected !!!
+2023-08-30 19:37:26 | INFO | Server running on http://localhost:5000
+2023-08-30 19:37:26 | INFO | Database connected !!!
+2023-08-30 19:39:19 | INFO | Server running on http://localhost:5000
+2023-08-30 19:39:19 | INFO | Database connected !!!
+2023-08-30 19:39:22 | ERROR | MongoServerError: Can't extract geo keys: { _id: ObjectId('64ef70b930f97a7e3cd36de0'), firstName: "rabab", lastName: "ZEAITER", email: "rabab@gmail.com", password: "$2a$10$bRuzHmUx0wuNK/x6QuYWJuIgnhmAiKNbYefYQZllnTSpdMs1C8K.W", role: [ "admin" ], ordersDelivered: 0, ranking: 0, location: { type: "Point" }, profilePhoto: { url: "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png", publicId: null }, dishes: [], createdAt: new Date(1693413561957), updatedAt: new Date(1693413561957), __v: 0 }  Point must be an array or object
+    at C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\operations\insert.js:50:33
+    at C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\cmap\connection_pool.js:331:21
+    at C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\sdam\server.js:209:17
+    at handleOperationResult (C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\sdam\server.js:337:20)
+    at Connection.onMessage (C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\cmap\connection.js:206:9)
+    at MessageStream.<anonymous> (C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\cmap\connection.js:61:60)
+    at MessageStream.emit (node:events:513:28)
+    at processIncomingData (C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\cmap\message_stream.js:124:16)
+    at MessageStream._write (C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\cmap\message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+2023-08-30 19:39:33 | ERROR | MongoServerError: Can't extract geo keys: { _id: ObjectId('64ef70c530f97a7e3cd36de3'), firstName: "rabab", lastName: "ZEAITER", email: "rabab@gmail.com", password: "$2a$10$m11AkkVVOF1Qtxgvu61z9ucz3mEZ.0wP1e8Zf7joRCnt7NSINKzJO", role: [ "admin" ], ordersDelivered: 0, ranking: 0, location: { type: "Point" }, profilePhoto: { url: "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png", publicId: null }, dishes: [], createdAt: new Date(1693413573011), updatedAt: new Date(1693413573011), __v: 0 }  Point must be an array or object
+    at C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\operations\insert.js:50:33
+    at C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\cmap\connection_pool.js:331:21
+    at C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\sdam\server.js:209:17
+    at handleOperationResult (C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\sdam\server.js:337:20)
+    at Connection.onMessage (C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\cmap\connection.js:206:9)
+    at MessageStream.<anonymous> (C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\cmap\connection.js:61:60)
+    at MessageStream.emit (node:events:513:28)
+    at processIncomingData (C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\cmap\message_stream.js:124:16)
+    at MessageStream._write (C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\cmap\message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+2023-08-30 19:40:32 | INFO | Server running on http://localhost:5000
+2023-08-30 19:40:32 | INFO | Database connected !!!
+2023-08-30 19:57:26 | INFO | Server running on http://localhost:5000
+2023-08-30 19:57:26 | INFO | Database connected !!!
+2023-08-30 19:59:13 | INFO | Server running on http://localhost:5000
+2023-08-30 19:59:14 | INFO | Database connected !!!
+2023-08-30 19:59:16 | ERROR | MongoServerError: E11000 duplicate key error collection: platepal.users index: userId_1 dup key: { userId: null }
+    at C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\operations\insert.js:50:33
+    at C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\cmap\connection_pool.js:331:21
+    at C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\sdam\server.js:209:17
+    at handleOperationResult (C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\sdam\server.js:337:20)
+    at Connection.onMessage (C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\cmap\connection.js:206:9)
+    at MessageStream.<anonymous> (C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\cmap\connection.js:61:60)
+    at MessageStream.emit (node:events:513:28)
+    at processIncomingData (C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\cmap\message_stream.js:124:16)
+    at MessageStream._write (C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\cmap\message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+2023-08-30 19:59:44 | INFO | Server running on http://localhost:5000
+2023-08-30 19:59:44 | INFO | Database connected !!!
+2023-08-30 19:59:47 | ERROR | MongoServerError: E11000 duplicate key error collection: platepal.users index: userId_1 dup key: { userId: null }
+    at C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\operations\insert.js:50:33
+    at C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\cmap\connection_pool.js:331:21
+    at C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\sdam\server.js:209:17
+    at handleOperationResult (C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\sdam\server.js:337:20)
+    at Connection.onMessage (C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\cmap\connection.js:206:9)
+    at MessageStream.<anonymous> (C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\cmap\connection.js:61:60)
+    at MessageStream.emit (node:events:513:28)
+    at processIncomingData (C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\cmap\message_stream.js:124:16)
+    at MessageStream._write (C:\Users\User\Documents\platepal\server\node_modules\mongodb\lib\cmap\message_stream.js:33:9)
+    at writeOrBuffer (node:internal/streams/writable:392:12)
+2023-08-30 20:00:20 | INFO | Server running on http://localhost:5000
+2023-08-30 20:00:20 | INFO | Database connected !!!
+2023-08-30 20:05:21 | INFO | Server running on http://localhost:5000
+2023-08-30 20:05:21 | INFO | Database connected !!!
+2023-08-30 20:05:29 | INFO | Server running on http://localhost:5000
+2023-08-30 20:05:30 | INFO | Database connected !!!
+2023-08-30 20:11:26 | INFO | Server running on http://localhost:5000
+2023-08-30 20:11:26 | INFO | Database connected !!!
+2023-08-30 21:28:53 | INFO | Server running on http://localhost:5000
+2023-08-30 21:28:53 | INFO | Database connected !!!
+2023-08-30 21:29:09 | INFO | Server running on http://localhost:5000
+2023-08-30 21:29:09 | INFO | Database connected !!!
+2023-09-02 10:11:28 | INFO | Server running on http://localhost:5000
+2023-09-02 10:11:29 | INFO | Database connected !!!
+2023-09-02 14:54:44 | INFO | Server running on http://localhost:5000
+2023-09-02 14:54:44 | INFO | Database connected !!!
+2023-09-02 15:03:29 | INFO | Server running on http://localhost:5000
+2023-09-02 15:03:29 | INFO | Database connected !!!
+2023-09-02 15:03:31 | INFO | Server running on http://localhost:5000
+2023-09-02 15:03:32 | INFO | Database connected !!!
+2023-09-02 15:03:37 | INFO | Server running on http://localhost:5000
+2023-09-02 15:03:37 | INFO | Database connected !!!
+2023-09-02 15:03:44 | INFO | Server running on http://localhost:5000
+2023-09-02 15:03:44 | INFO | Database connected !!!
+2023-09-02 15:03:49 | INFO | Server running on http://localhost:5000
+2023-09-02 15:03:49 | INFO | Database connected !!!
+2023-09-02 15:21:14 | INFO | Server running on http://localhost:5000
+2023-09-02 15:21:14 | INFO | Database connected !!!
+2023-09-02 15:23:15 | INFO | Server running on http://localhost:5000
+2023-09-02 15:23:16 | INFO | Database connected !!!
+2023-09-02 15:25:56 | INFO | Server running on http://localhost:5000
+2023-09-02 15:25:56 | INFO | Database connected !!!
+2023-09-04 16:42:17 | INFO | Server running on http://localhost:5000
+2023-09-04 16:42:17 | INFO | Database connected !!!
+2023-09-04 16:46:42 | INFO | Server running on http://localhost:5000
+2023-09-04 16:46:42 | INFO | Database connected !!!
+2023-09-04 16:47:31 | INFO | Server running on http://localhost:5000
+2023-09-04 16:47:31 | INFO | Database connected !!!
+2023-09-05 20:19:16 | INFO | Server running on http://localhost:5000
+2023-09-05 20:19:17 | INFO | Database connected !!!
+2023-09-05 20:22:17 | INFO | Server running on http://localhost:5000
+2023-09-05 20:22:18 | INFO | Database connected !!!
+2023-09-05 20:22:34 | INFO | Server running on http://localhost:5000
+2023-09-05 20:22:34 | INFO | Database connected !!!
+2023-09-05 20:24:33 | INFO | Server running on http://localhost:5000
+2023-09-05 20:24:33 | INFO | Database connected !!!
+2023-09-05 20:24:39 | INFO | Server running on http://localhost:5000
+2023-09-05 20:24:39 | INFO | Database connected !!!
+2023-09-05 20:25:09 | INFO | Server running on http://localhost:5000
+2023-09-05 20:25:09 | INFO | Database connected !!!
+2023-09-05 20:25:55 | INFO | Server running on http://localhost:5000
+2023-09-05 20:25:55 | INFO | Database connected !!!
+2023-09-05 20:26:13 | INFO | Server running on http://localhost:5000
+2023-09-05 20:26:13 | INFO | Database connected !!!
+2023-09-05 20:29:36 | INFO | Server running on http://localhost:5000
+2023-09-05 20:29:36 | INFO | Database connected !!!
+2023-09-05 20:30:25 | INFO | Server running on http://localhost:5000
+2023-09-05 20:30:25 | INFO | Database connected !!!
+2023-09-05 20:30:39 | INFO | Server running on http://localhost:5000
+2023-09-05 20:30:39 | INFO | Database connected !!!
+2023-09-05 20:31:18 | INFO | Server running on http://localhost:5000
+2023-09-05 20:31:18 | INFO | Database connected !!!
+2023-09-05 20:31:57 | INFO | Server running on http://localhost:5000
+2023-09-05 20:31:57 | INFO | Database connected !!!
+2023-09-05 20:33:51 | INFO | Server running on http://localhost:5000
+2023-09-05 20:33:51 | INFO | Database connected !!!
+2023-09-05 20:34:00 | INFO | Server running on http://localhost:5000
+2023-09-05 20:34:00 | INFO | Database connected !!!
+2023-09-05 20:34:12 | INFO | Server running on http://localhost:5000
+2023-09-05 20:34:12 | INFO | Database connected !!!
+2023-09-05 20:34:28 | INFO | Server running on http://localhost:5000
+2023-09-05 20:34:28 | INFO | Database connected !!!
+2023-09-05 20:34:36 | INFO | Server running on http://localhost:5000
+2023-09-05 20:34:37 | INFO | Database connected !!!
+2023-09-05 20:34:42 | INFO | Server running on http://localhost:5000
+2023-09-05 20:34:42 | INFO | Database connected !!!
+2023-09-05 20:38:33 | INFO | Server running on http://localhost:5000
+2023-09-05 20:38:33 | INFO | Database connected !!!
+2023-09-05 20:38:41 | INFO | Server running on http://localhost:5000
+2023-09-05 20:38:41 | INFO | Database connected !!!
